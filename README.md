@@ -1,4 +1,4 @@
-# Commandline
+# Command Line
 ### Runners
 - [Just](https://just.systems/man/en/) is a handy way to save and run project-specific commands.
 
