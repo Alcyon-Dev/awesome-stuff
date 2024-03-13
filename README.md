@@ -6,6 +6,10 @@
 ### Hooks
 - [Husky](https://typicode.github.io/husky/) : Makes Git hooks easy.
 
+# PHP
+### Profiling / Benchmarking
+- [SPX](https://github.com/NoiseByNorthwest/php-spx) : A simple profiler for PHP
+  
 # Laravel
 ### Packages
 - [One-Time Operations for Laravel](https://github.com/TimoKoerber/laravel-one-time-operations) : Run operations once after deployment - just like you do it with migrations.
