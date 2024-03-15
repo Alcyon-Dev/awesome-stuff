@@ -12,6 +12,7 @@
 - **Dev Tools**
   - Web dev
     - [Request Bin](https://public.requestbin.com/r) : Inspect webhooks and HTTP requests
+    - [localhost.run](https://localhost.run/) : SSH tunnel to expose local web applications
    
 - **Dev Services**
   - Captcha
