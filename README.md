@@ -18,5 +18,11 @@
 ### Packages
 - [Boardgame.io](https://boardgame.io/) : Open Source Game Engine for Turn-Based Games.
 
+# gRPC
+- [gRPC](https://grpc.io/) : A high performance, open source universal RPC framework
+
+### Clients
+- [Evans](https://github.com/ktr0731/evans) : More expressive gRPC client
+
 # Dev Refs
 - [The twelve-factor methodology](https://www.12factor.net/)
