@@ -7,7 +7,7 @@
     - [Husky](https://typicode.github.io/husky/) : Makes Git hooks easy
       
 - **Dev Refs**
-  - [The twelve-factor methodology](https://www.12factor.net/)-
+  - [The twelve-factor methodology](https://www.12factor.net/)
     
 - **Languages**
   - PHP
