@@ -12,6 +12,11 @@
 - Dev tools
   - Web dev
     - [Request Bin](https://public.requestbin.com/r) : Inspect webhooks and HTTP requests
+   
+- Dev services
+  - Captcha
+    - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/)
+    - [hCaptcha](https://www.hcaptcha.com/)
       
 - **Languages**
   - PHP
