@@ -8,7 +8,11 @@
       
 - **Dev Refs**
   - [The twelve-factor methodology](https://www.12factor.net/)
-    
+
+- Dev tools
+  - Web dev
+    - [Request Bin](https://public.requestbin.com/r) : Inspect webhooks and HTTP requests
+      
 - **Languages**
   - PHP
     - Profiling / Benchmarking
