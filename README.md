@@ -22,6 +22,9 @@
     - Packages
       - [One-Time Operations for Laravel](https://github.com/TimoKoerber/laravel-one-time-operations) : Run operations once after deployment - just like you do it with migrations
 
+- **Config files format**
+  - [TOML](https://toml.io/en/) : Tom's Obvious Minimal Language
+    
 - **Event streaming**
   - Kafka
     - [Apache Kafka](https://kafka.apache.org/) : Open-source distributed event streaming platform
