@@ -36,5 +36,5 @@
     - Clients
       - [Evans](https://github.com/ktr0731/evans) : More expressive gRPC client
   - Protocol Buffers
-    - (Protocol Buffers)[https://protobuf.dev/] : Language-neutral, platform-neutral extensible mechanisms for serializing structured data
+    - [Protocol Buffers](https://protobuf.dev/) : Language-neutral, platform-neutral extensible mechanisms for serializing structured data
 
