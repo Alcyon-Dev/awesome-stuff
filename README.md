@@ -1,6 +1,6 @@
 - **Command line**
   - Runners
-    - [Just](https://just.systems/man/en/) : andy way to save and run project-specific commands
+    - [Just](https://just.systems/man/en/) : Handy way to save and run project-specific commands
       
 - **Git**
   - Hooks
