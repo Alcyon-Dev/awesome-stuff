@@ -1,4 +1,4 @@
-- **Command line**
+- **Command Line**
   - Runners
     - [Just](https://just.systems/man/en/) : Handy way to save and run project-specific commands
       
@@ -9,11 +9,11 @@
 - **Dev Refs**
   - [The twelve-factor methodology](https://www.12factor.net/)
 
-- Dev tools
+- **Dev Tools**
   - Web dev
     - [Request Bin](https://public.requestbin.com/r) : Inspect webhooks and HTTP requests
    
-- Dev services
+- **Dev Services**
   - Captcha
     - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/)
     - [hCaptcha](https://www.hcaptcha.com/)
@@ -31,15 +31,15 @@
     - Packages
       - [One-Time Operations for Laravel](https://github.com/TimoKoerber/laravel-one-time-operations) : Run operations once after deployment - just like you do it with migrations
 
-- **Config files format**
+- **Config Files Format**
   - [TOML](https://toml.io/en/) : Tom's Obvious Minimal Language
     
-- **Event streaming**
+- **Event Streaming**
   - Kafka
     - [Apache Kafka](https://kafka.apache.org/) : Open-source distributed event streaming platform
     - [RedPanda](https://redpanda.com/) : Simple, powerful, and cost-efficient streaming data platform
       
-- **Inter-process communication**
+- **Inter-process Communication**
   - gRPC
     - [gRPC](https://grpc.io/) : A high performance, open source universal RPC framework
     - Clients
