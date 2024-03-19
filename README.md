@@ -22,6 +22,7 @@
 
 - Laravel
   - Packages
+    - [Laravel-data](https://spatie.be/docs/laravel-data/v4/introduction) : Powerful data objects for Laravel
     - [One-Time Operations for Laravel](https://github.com/TimoKoerber/laravel-one-time-operations) : Run operations once after deployment - just like you do it with migrations
 
 ## Dev Tools
