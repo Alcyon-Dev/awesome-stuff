@@ -36,7 +36,7 @@
 - Captcha
   - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/)
   - [hCaptcha](https://www.hcaptcha.com/)
-  - 
+
 ## Dev Techs
 
 - Config Files Format
